@@ -2,7 +2,7 @@
 
 This project trains dogs to avoid barking by harmlessly squirting them with water when they fall out of line.
 
-https://drive.google.com/uc?export=download&id=1zRiC5pk80V9uyaZUxXrG-0W6UtPOhInQ
+[![YouTube](http://i.ytimg.com/vi/tJ_GtnKYd5o/hqdefault.jpg)](https://www.youtube.com/watch?v=tJ_GtnKYd5o)
 
 ## Setup
 
